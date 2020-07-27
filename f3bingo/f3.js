@@ -15,7 +15,9 @@ bingoList[2] = [
   { name: "Buy 5 house upgrades", types: ["weapon"] },
   { name: "Kill someone by reverse pickpocketing a grenade", types: ["weapon"] },
   { name: "Acquire the office employee ID", types: ["kill"] },
-  { name: "", types: ["items"] }
+  { name: "Complete the unmarked quest Treatment", types: ["items"] },
+  { name: "", types: ["items"] },
+  { name: "Talk to Stockholm", types: ["items"] }
 ];
 bingoList[3] = [
   { name: "Get 500 caps", types: ["money"] },
@@ -23,7 +25,7 @@ bingoList[3] = [
   { name: "Get a 2,5,8,10,13 and Cue ball", types: ["perk"] },
   { name: "Kill Gallo", types: ["crafting"] },
   { name: "Consume Strange Meat", types: ["weapon"] },
-  { name: "", types: ["items"] }
+  { name: "Activate the Rube Goldberg machine at Gold Ribbon Grocers", types: ["items"] }
 ];
 bingoList[4] = [
   { name: "Get 3 bobbleheads", types: ["location"] },
@@ -38,9 +40,10 @@ bingoList[5] = [
   { name: "Get a companion", types: ["rep"] },
   { name: "Collect 5 pieces of Unique Apparel", types: ["quest"] },
   { name: "Fix the door at Anchorage Memorial", types: ["kill"] },
+  { name: "Complete the unmarked quest The Lost Initiate", types: ["kill"] },
   { name: "Put a 2nd party hat on the brahmin ornament in Dukov's Place ", types: ["notes"] },
   { name: "Fist someone using fisto!", types: ["meme"] },
-  { name: "", types: ["weapon"] },
+  { name: "Eat Bill Wilson", types: ["weapon"] },
   { name: "Acquire Ultrajet", types: ["items"] }
 ];
 bingoList[6] = [
@@ -48,8 +51,10 @@ bingoList[6] = [
   { name: "Get 1000 caps", types: ["kill"] },
   { name: "Kill the preacher", types: ["kill"] },
   { name: "Complete the quest Those!", types: ["quest"] },
+  { name: "Have Mei Wong commit suicide", types: ["quest"] },
   { name: "Get the Nuka Cola Clear formula", types: ["weapon"] },
   { name: "Acquire Nukalurk meat", types: ["weapon"] },
+  { name: "Escort Cherry to Rivet City", types: ["weapon"] },
   { name: "Complete Big Trouble in Big Town", types: ["crafting"] },
   { name: "Make Bannon part of the council", types: ["items"] },
   { name: "Acquire Vengeance", types: ["items"] }
@@ -62,7 +67,7 @@ bingoList[7] = [
   { name: "Acquire the alien blaster", types: ["weapon"] },
   { name: "Acquire the experimental MIRV", types: ["notes"] },
   { name: "Complete the quest The Replicated Man", types: ["quest"] },
-  { name: "Get a strange meat pie", types: ["perk, novac"] }
+  { name: "Eat a strange meat pie", types: ["perk, novac"] }
 ];
 bingoList[8] = [
   { name: "Get Agatha's Violin", types: ["quest"] },
@@ -82,6 +87,7 @@ bingoList[9] = [
   { name: "Acquire the Lucky 8-Ball", types: ["perk"] },
   { name: "Get the Blackhawk", types: ["kill"] },
   { name: "Kill Samuel", types: ["kill"] },
+  { name: "Make Paulie Cantelli overdose", types: ["kill"] },
   { name: "Activate the failsafe at Red Racer Factory", types: ["items"] },
   { name: "Acquire the Experimental Rho ID", types: ["location"] },
   { name: "Craft a bottlecap mine", types: ["quest"] }
@@ -114,6 +120,8 @@ bingoList[12] = [
   { name: "Sell Bryan Wilks into slavery", types: ["quest"] },
   { name: "Complete the unmarked quest Merchant Empire", types: ["game"] },
   { name: "Cripple Mad Johnny Wes with the Dart Gun", types: ["game"] },
+  { name: "Enslave Bill Seward", types: ["game"] },
+  { name: "Enslave Fantasia and Cherry", types: ["game"] },
   { name: "Rig the Republic of Dave's election in Bob's favour", types: ["quest"] },
   { name: "Turn in 10 pre war books", types: ["weapon, novac"] },
   { name: "Kill Sierra Petrovita with a Nuka Grenade", types: ["weapon, novac"] },
@@ -180,7 +188,7 @@ bingoList[20] = [
   { name: "Acquire the Robco processor widget", types: ["quest"] },
   { name: "Listen to the reading of the Children's Bedtime Poem ", types: ["challenge"] },
   { name: "Find 5 Replicated Man tapes", types: ["crafting"] },
-  { name: "", types: ["quest"] }
+  { name: "Lead Sticky to Big Town", types: ["quest"] }
 ];
 bingoList[21] = [
   { name: "Collect all 9 Lincoln artifacts", types: ["safehouse"] },
@@ -206,7 +214,7 @@ bingoList[24] = [
   { name: "Collect all Keller family transcripts", types: ["quest"] },
   { name: "Kill 4 companions", types: ["companion, kill"] },
   { name: "Collect 6 sheet music book", types: ["items"] },
-  { name: "", types: ["weapon", "ending"] }
+  { name: "Collect 5 uniquely numbered vault suits", types: ["weapon", "ending"] }
 ];
 bingoList[25] = [
   { name: "Get 15 Bobbleheads", types: ["challenge"] },
