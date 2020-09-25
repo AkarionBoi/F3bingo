@@ -7,8 +7,7 @@ bingoList[1] = [
   { name: "Tip a brahmin", types: ["items"] },
   { name: "Have sex", types: ["sex"] },
   { name: "Give water to a beggar", types: ["kill"] },
-  { name: "Donate to the church of the children of atom", types: ["kill"] },
-  { name: "", types: ["items"] }
+  { name: "Donate to the church of the children of atom", types: ["kill"] }
 ];
 bingoList[2] = [
   { name: "Complete the unmarked quest 300 Pieces of SIlver", types: ["weapon"] },
@@ -16,7 +15,6 @@ bingoList[2] = [
   { name: "Kill someone by reverse pickpocketing a grenade", types: ["weapon"] },
   { name: "Acquire the office employee ID", types: ["kill"] },
   { name: "Complete the unmarked quest Treatment", types: ["items"] },
-  { name: "", types: ["items"] },
   { name: "Talk to Stockholm", types: ["items"] }
 ];
 bingoList[3] = [
@@ -151,8 +149,7 @@ bingoList[15] = [
   { name: "Get the Declaration of Independence", types: ["perk"] },
   { name: "Complete the quest Waters of Life", types: ["quest"] },
   { name: "Complete the quest Reilly's Rangers", types: ["quest"] },
-  { name: "Kill ghoul Moira with the Experimental MIRV", types: ["items"] },
-  { name: "", types: ["quest"] }
+  { name: "Kill ghoul Moira with the Experimental MIRV", types: ["items"] }
 ];
 bingoList[16] = [
   { name: "Acquire Junders Plunkett's finger", types: ["quest"] },
@@ -160,29 +157,25 @@ bingoList[16] = [
   { name: "Acquire Donovan's Wrench", types: ["items"] },
   { name: "Acquire the geomapper module", types: ["items"] },
   { name: "Collect all Cheryl search logs", types: ["items"] },
-  { name: "Get all love letters from Burke", types: ["items"] },
-  { name: "", types: ["quest"] }
+  { name: "Get all love letters from Burke", types: ["items"] }
 ];
 bingoList[17] = [
   { name: "Complete the game", types: ["quest"] },
   { name: "Complete the quest Trouble on the Homefront without destroying the vault", types: ["skill"] },
   { name: "Destroy Vault 101", types: ["crafting"] },
   { name: "Complete the quest Project Impurity", types: ["meme"] },
-  { name: "Craft the Railway Rifle", types: ["quest"] },
-  { name: "", types: ["quest"] }
+  { name: "Craft the Railway Rifle", types: ["quest"] }
 ];
 bingoList[18] = [
   { name: "Discover 35 locations", types: ["quest"] },
   { name: "Turn in 10 holotags to Scribe Jameson", types: ["snow"] },
   { name: "Kill Ethyl and Meat", types: ["kill"] },
-  { name: "Eat the sweetroll in view of Butch during Trouble on the Homefront", types: ["weapon"] },
-  { name: "", types: ["quest"] }
+  { name: "Eat the sweetroll in view of Butch during Trouble on the Homefront", types: ["weapon"] }
 ];
 bingoList[19] = [
   { name: "Collect 15 pieces of unique apparel", types: ["safehouse"] },
   { name: "Complete the quest Strictly Business", types: ["challenge"] },
-  { name: "Place the giant teddybear in your room in vault 101", types: ["quest"] },
-  { name: "", types: ["caps"] }
+  { name: "Place the giant teddybear in your room in vault 101", types: ["quest"] }
 ];
 bingoList[20] = [
   { name: "Acquire the Robco processor widget", types: ["quest"] },
@@ -193,21 +186,18 @@ bingoList[20] = [
 bingoList[21] = [
   { name: "Collect all 9 Lincoln artifacts", types: ["safehouse"] },
   { name: "Kill Seagrave Holmes with the Railway Rifle", types: ["rep"] },
-  { name: "Collect 3 big spoons", types: ["sex"] },
-  { name: "", types: ["crafting"] }
+  { name: "Collect 3 big spoons", types: ["sex"] }
 ];
 bingoList[22] = [
   { name: "Discover 50 locations", types: ["game"] },
   { name: "collect 3 sheet music books", types: ["challenge"] },
   { name: "Pick up 4 whet stones", types: ["challenge"] },
-  { name: "Pick up 3 wood chippers", types: ["items"] },
-  { name: "", types: ["weapon"] }
+  { name: "Pick up 3 wood chippers", types: ["items"] }
 ];
 bingoList[23] = [
   { name: "Acquire the T-51b power armour", types: ["challenge"] },
   { name: "Turn in 20 pre war books", types: ["quest"] },
-  { name: "Place an intact garden gnome at each corner of the map", types: ["weapon"] },
-  { name: "", types: ["items"] }
+  { name: "Place an intact garden gnome at each corner of the map", types: ["weapon"] }
 ];
 bingoList[24] = [
   { name: "Complete the quest Wasteland Survival Guide without using Speech", types: ["quest"] },
@@ -222,7 +212,6 @@ bingoList[25] = [
   { name: "Kill 5 behemoths", types: ["challenge"] },
   { name: "Collect 25 skill books", types: ["challenge"] },
   { name: "Collect 20 pieces of Unique Apparel", types: ["quest"] },
-  { name: "Acquire all weapon schematics", types: ["challenge"] },
-  { name: "", types: ["safehouse"] }
+  { name: "Acquire all weapon schematics", types: ["challenge"] }
 ];
 	$(function() { srl.bingo(bingoList, 5); });
